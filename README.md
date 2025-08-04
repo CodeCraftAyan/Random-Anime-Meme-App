@@ -2,7 +2,7 @@
 
 # Random Anime Meme Generator App
 
-A fun and simple web app that generates random anime memes every time you click! Built to bring a smile to anime lovers.✨
+A fun and simple web app that generates random anime memes every time you click! Built to bring a smile to anime lovers.
 
 [![View Site](https://img.shields.io/badge/View%20Site-Click%20Here-blue?style=for-the-badge)](https://random-anime-meme-app.onrender.com)
 
