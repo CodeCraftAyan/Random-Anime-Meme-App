@@ -24,3 +24,7 @@ cd your-repo-name
 pip install -r requirements.txt
 python app.py
 ```
+
+---
+
+Thanks for checking out this project 😄
